@@ -45,9 +45,6 @@ Once trained, use the Gradio UI:
 - Upload an image of a flower.
 - The model will return prediction probabilities for each flower class.
 
-![Gradio Demo](https://i.imgur.com/xYjOjYI.png) <!-- You can replace with your screenshot -->
-
----
 
 ## 📦 Dependencies
 
